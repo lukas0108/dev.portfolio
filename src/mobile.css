@@ -1,6 +1,12 @@
 @import "tailwindcss";
 @import "tailwindcss/utilities";
 
+@media screen and (max-width: 500px) {
+    body {
+        @apply py-12 px-6;
+    }
+}
+
 @media screen and (max-width: 820px) {
     body {
         @apply py-12 px-20;
@@ -28,8 +34,8 @@
     }
 }
 
-@media screen and (max-width: 500px) {
-    body {
-        @apply py-12 px-6;
+@media screen and (min-width: 1400px) {
+    .header-2 {
+        width: 525px;
     }
 }
