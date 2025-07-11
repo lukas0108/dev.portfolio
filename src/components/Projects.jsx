@@ -6,17 +6,17 @@ import ProjectCarousel from "./ProjectCarousel"
 
 export default function Projects() {
     const devToolsImages = [
-        "images/devtools-colors.png",
-        "images/devtools-json.png"
+        "images/devtools-colors.webp",
+        "images/devtools-json.webp"
     ];
 
     const authenticSurfaceImages = [
-        "images/authSurf-desktop.png",
-        "images/authSurf-mobile-1.png",
-        "images/authSurf-mobile-2.png"
+        "images/authSurf-desktop.webp",
+        "images/authSurf-mobile-1.webp",
+        "images/authSurf-mobile-2.webp"
     ]
 
-    const devPortfolioImage = ["images/dev.png"]
+    const devPortfolioImage = ["images/dev.webp"]
 
     return (
         <section id="projects">
