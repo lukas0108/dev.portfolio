@@ -4,6 +4,7 @@
 @media screen and (max-width: 820px) {
     body {
         @apply py-12 px-20;
+        background: oklch(10% 0 0);
     }
 
     .nav-game:hover p {
