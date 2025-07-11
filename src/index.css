@@ -139,6 +139,12 @@ section {
     @apply flex justify-center items-center gap-3 bg-rebecca/20 hover:bg-rebecca/50 border border-rebecca-light rounded-xl px-3 py-2;
 }
 
+@media (hover: hover) {
+    .skill-tag:hover {
+        @apply bg-rebecca/50;
+    }
+}
+
 .skill-tag p {
     @apply cursor-default;
 }
