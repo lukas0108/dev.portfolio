@@ -136,7 +136,7 @@ section {
 }
 
 .skill-tag {
-    @apply flex justify-center items-center gap-3 bg-rebecca/20 hover:bg-rebecca/50 border border-rebecca-light backdrop-filter backdrop-blur-xs rounded-xl px-3 py-2;
+    @apply flex justify-center items-center gap-3 bg-rebecca/20 hover:bg-rebecca/50 border border-rebecca-light rounded-xl px-3 py-2;
 }
 
 .skill-tag p {
