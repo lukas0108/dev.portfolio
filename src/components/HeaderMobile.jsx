@@ -9,7 +9,7 @@ export default function HeaderMobile() {
     const sectionOffsets = {
         home: 0,
         projects: 0.1, 
-        about: 0.4,
+        about: 0.2,
         contact: 0
     };
 
