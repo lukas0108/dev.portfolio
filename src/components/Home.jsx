@@ -7,7 +7,7 @@ export default function Home() {
             <div className="max-w-3xl mx-auto flex flex-col gap-6">
                 <div>
                     <h1 className="mt-10 ml-0.5 text-xl bg-transparent uppercase">Lukáš Bínek</h1>
-                    <h1 className="text-5xl uppercase">Front-end developer</h1>
+                    <h1 className="text-5xl uppercase title">Front-end developer</h1>
                 </div>
                 <div className="home-desc">
                     <p>
