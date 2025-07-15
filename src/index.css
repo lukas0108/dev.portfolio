@@ -297,3 +297,7 @@ section {
 .contact-content p {
     @apply  pl-4 border-l-3 border-rebecca text-xl;
 }
+
+.arrow-up {
+    opacity: 0;
+}

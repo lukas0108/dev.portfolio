@@ -10,7 +10,7 @@ export default function Contact () {
                         binek.dev@email.cz
                     </a></p>
                     <p>tel: +420 602 961 537</p>
-                    <a href="#home" className="mt-10 mx-auto btn-primary !rounded-full !p-2">
+                    <a href="#home" className="my-10 mx-auto btn-primary !rounded-full !p-2 arrow-up">
                         <ArrowUp />
                     </a>
                 </div>

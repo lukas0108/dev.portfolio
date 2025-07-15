@@ -39,6 +39,10 @@
     .contact-content, #contact {
         @apply mb-0
     }
+
+    .arrow-up {
+        opacity: 1;
+    }
 }
 
 @media screen and (max-width: 500px) {
